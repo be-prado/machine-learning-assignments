@@ -1,0 +1,18 @@
+Mean Squared Error for SVR: 36.152137059139235 
+
+
+Mean Squared Error for Kernel Ridge Regression 37.843200151472246 
+
+
+Best parameters for SVR:
+
+Regularization parameter C: 10.0 
+Kernel parameter: 0.01 
+RMSE for best parameters: 31.264725875696154 
+
+
+Best parameters for Kernel Ridge Regression:
+
+Regularization parameter alpha: 0.05 
+Kernel parameter: 0.01 
+RMSE for best parameters: 33.36136004426236 

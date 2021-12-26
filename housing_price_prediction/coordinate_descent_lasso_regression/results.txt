@@ -1,0 +1,8 @@
+Final test MSE: 755.0824383673369
+
+Labels that were threshold to zero:
+
+Enclosed.Porch
+Fence
+Total.Porch.SF
+
